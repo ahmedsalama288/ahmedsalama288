@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I'm a Frontend Developer with around 2 years of professional experience building production web applications with React, Next.js, and TypeScript.</h2>
+<p data-importer="text" align="left">I'm a Frontend Developer with around 2 years of professional experience building production web applications with React, Next.js, and TypeScript.</p>
 
 ###
 
@@ -43,5 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/ahmedsalama288/ahmedsalama288/snake-output/snake.svg" alt="Snake animation" />
 
 ###
