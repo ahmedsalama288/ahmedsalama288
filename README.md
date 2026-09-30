@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/ahmedsalama288/ahmedsalama288/snake-output/snake.svg" alt="Snake animation" />
-
-###
